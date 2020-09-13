@@ -2,7 +2,7 @@
 Software to setup end-to-end core optical network
 
 # Contributors list 
-Aditya Kamarusu
+Aditya K
 
 
 # LICENSE Info
